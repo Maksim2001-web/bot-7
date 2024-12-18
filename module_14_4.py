@@ -13,7 +13,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 import aiohttp
 
 
-BOT_TOKEN = "7521461197:AAH52vbD5jk4evH1LECmyGnaJEBZC_apLkY"
+BOT_TOKEN = ""
 
 bot = Bot(token=BOT_TOKEN)
 storage = MemoryStorage()
